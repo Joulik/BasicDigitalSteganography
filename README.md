@@ -2,7 +2,6 @@
 
 BasicDigitalSteganography.py
 ============================
-
 Imagine you want to send a secret message. You may want to have it in the form of a black and white image so you can hide it in another insignificant picture. This is the basic principle of steganography.
 
 The code BasicSteganography.py enables you to do so through the following algorithm inspired by acfogarty.github.io
@@ -32,9 +31,12 @@ BasicSteganography.py uses the GUI made with the Tkinter python library.
 Give it a try
 =============
 Some files were prepared so you can test the tools.
-1. To encrypt a message : 
+1. To encrypt a message :
+
 -text.png is a black and white image file of a text and should be used as the image to hide.
+
 -cat_PNG50488_pinkBG.png is an image file expected to be the carrier image.
 Generate an image with the embedded text with the encrypt tool.
+
 2. To decipher a message :
 -kitty.png is a kitten image with an embedded text. Use the decipher tool to view this text.
