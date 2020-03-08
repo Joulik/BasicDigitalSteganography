@@ -28,6 +28,10 @@ In order to decipher the message, it is sufficient to read the parity of the rgb
 
 BasicSteganography.py uses the GUI made with the Tkinter python library.
 
+Below we present a snapshot of the tool where the different steps of the encryption are shown. Can you see a difference between the carrier image and the image with the embedded message (here a black cat)? Note: all images were drawn on http://www.piskel.com.
+
+![snapshot of encryption](https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/snapshot.png)
+
 Give it a try
 =============
 Some files were prepared so you can test the tools.
