@@ -34,13 +34,16 @@ Some files were prepared so you can test the tools.
 1. To encrypt a message :
 
 -text.png is a black and white image file of a text and should be used as the image to hide.
-![text to hide] (https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/text.png)
+
+![text to hide](https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/text.png)
 
 -cat_PNG50488_pinkBG.png is an image file expected to be the carrier image.
-![carrier image] (https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/cat_PNG50488_pinkBG.png)
+
+![carrier image](https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/cat_PNG50488_pinkBG.png)
 
 Generate an image with the embedded text with the encrypt tool (here called kitty.png).
-![image with embedded text message image] (https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/kitty.png)
+
+![image with embedded text message image](https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/kitty.png)
 
 
 2. To decipher a message :
