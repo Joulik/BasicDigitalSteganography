@@ -41,10 +41,11 @@ Some files were prepared so you can test the tools.
 
 ![carrier image](https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/cat_PNG50488_pinkBG.png)
 
-Generate an image with the embedded text with the encrypt tool (here called kitty.png).
+Generate an image with the embedded text with the encrypt tool (here called kitty.png). Can you see a difference with the kitten image above?
 
 ![image with embedded text message image](https://raw.githubusercontent.com/Joulik/BasicDigitalSteganography/master/kitty.png)
 
 
-2. To decipher a message :
+2. To decipher a message:
+
 -kitty.png is a kitten image with an embedded text. Use the decipher tool to view this text. You should obtain the image file with the text.
